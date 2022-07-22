@@ -2,13 +2,5 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-madhankumar21437/madhankumar21437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-hi github
-testing github
-testing 2 jhgags
-secondary change
+- 📫 Howb account
+hello everyone welcome to git hub have a nice code
